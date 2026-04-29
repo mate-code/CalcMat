@@ -1,4 +1,4 @@
-# CalcMat - Caclulator App
+# CalcMat - Calculator App
 
 ### Description
 The app includes two calculator views: a simple one and an advanced one. It responds to screen rotation and uses an external library to parse user-entered data.
